@@ -23,11 +23,12 @@
 
 ## 🌐 Connect with Me
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:vanshikavijay0304@gmail.com
+">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/vanshika-vijay-49174b215/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
 </a>
 
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="30" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/your-gfg">
+<a href="https://www.geeksforgeeks.org/user/vanshikavijay/">
   <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&style=for-the-badge" height="30" />
 </a>
 
