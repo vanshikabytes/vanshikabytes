@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🎓 2nd Year B.Tech Student at **Haldia Institute Of Technology**  
+- 🎓 Final Year B.Tech Student at **Haldia Institute Of Technology**  
 - 🧠 Solved **267+ DSA Problems** on GeeksforGeeks  
 - 🖥️ Passionate Frontend Developer aka **FrontEndWizard**  
 - 🌱 Currently exploring **TypeScript** and advanced **React.js**
@@ -38,15 +38,6 @@
 <a href="https://auth.geeksforgeeks.org/user/your-gfg">
   <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&style=for-the-badge" height="30" />
 </a>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 ---
 
